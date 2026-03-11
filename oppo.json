@@ -1619,6 +1619,34 @@
         "title": "Shooting Tips",
         "content": "【环境建议】老城区、复古场景、室内怀旧场景\n【场景推荐】老物件、街景、人像、故事性场景\n【拍摄要点】复古怀旧风格，65%复古滤镜营造怀旧感，低影调增加复古氛围，降低饱和度模拟老照片质感，适合拍摄怀旧主题照片"
       }
+    },
+    {
+  "name": "富士胶片",
+  "coverPath": "images/fsjp_01.webp",
+  "galleryImages": [
+    "images/fsjp_02.webp",
+    "images/fsjp_03.webp"
+  ],
+  "author": "@OPPO影像",
+  "sections": [
+    {
+      "title": "@string/section_color_grading",
+      "items": [
+        {
+          "label": "@string/param_filter",
+          "value": "复古 100%",
+          "span": 2
+        }
+      ]
     }
+  ],
+  "tags": [
+    "Auto"
+  ],
+  "description": {
+    "title": "Shooting Tips",
+    "content": "【环境建议】..."
+  }
+}
   ]
 }
