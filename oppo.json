@@ -2,7 +2,7 @@
   "version": 2,
   "name": "仓库测试",
   "author": "@OMaster",
-  "build": 3,
+  "build": 4,
   "presets": [
     {
       "name": "富士胶片",
