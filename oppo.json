@@ -1628,6 +1628,7 @@
         "https://your-cdn.com/images/spring_fresh_02.webp"
       ],
       "author": "@屋顶橙子味",
+      "isNew": true,
       "sections": [
         {
           "title": "@string/section_color_grading",
