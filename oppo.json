@@ -6,10 +6,10 @@
   "presets": [
     {
       "name": "富士胶片",
-      "coverPath": "images/fsjp_01.webp",
+      "coverPath": "https://cdn.fky.ltd/fsjp_01.webp",
       "galleryImages": [
-        "images/fsjp_02.webp",
-        "images/fsjp_03.webp"
+        "https://cdn.fky.ltd/fsjp_02.webp",
+        "https://cdn.fky.ltd/fsjp_03.webp"
       ],
       "author": "@OPPO影像",
       "sections": [
@@ -69,10 +69,10 @@
     },
     {
       "name": "胶片感",
-      "coverPath": "images/jpg_01.webp",
+      "coverPath": "https://cdn.fky.ltd/jpg_01.webp",
       "galleryImages": [
-        "images/jpg_02.webp",
-        "images/jpg_03.webp"
+        "https://cdn.fky.ltd/jpg_02.webp",
+        "https://cdn.fky.ltd/jpg_03.webp"
       ],
       "author": "@OPPO影像",
       "sections": [
@@ -132,10 +132,10 @@
     },
     {
       "name": "童话",
-      "coverPath": "images/th_01.webp",
+      "coverPath": "https://cdn.fky.ltd/th_01.webp",
       "galleryImages": [
-        "images/th_02.webp",
-        "images/th_03.webp"
+        "https://cdn.fky.ltd/th_02.webp",
+        "https://cdn.fky.ltd/th_03.webp"
       ],
       "author": "@OPPO影像",
       "sections": [
@@ -195,10 +195,10 @@
     },
     {
       "name": "高对比黑白",
-      "coverPath": "images/gdbhb_01.webp",
+      "coverPath": "https://cdn.fky.ltd/gdbhb_01.webp",
       "galleryImages": [
-        "images/gdbhb_02.webp",
-        "images/gdbhb_03.webp"
+        "https://cdn.fky.ltd/gdbhb_02.webp",
+        "https://cdn.fky.ltd/gdbhb_03.webp"
       ],
       "author": "@OPPO影像",
       "sections": [
@@ -258,10 +258,10 @@
     },
     {
       "name": "理光绿",
-      "coverPath": "images/lgl_01.webp",
+      "coverPath": "https://cdn.fky.ltd/lgl_01.webp",
       "galleryImages": [
-        "images/lgl_02.webp",
-        "images/lgl_03.webp"
+        "https://cdn.fky.ltd/lgl_02.webp",
+        "https://cdn.fky.ltd/lgl_03.webp"
       ],
       "author": "@OPPO影像",
       "sections": [
@@ -321,10 +321,10 @@
     },
     {
       "name": "理光蓝",
-      "coverPath": "images/lglan_01.webp",
+      "coverPath": "https://cdn.fky.ltd/lglan_01.webp",
       "galleryImages": [
-        "images/lglan_02.webp",
-        "images/lglan_03.webp"
+        "https://cdn.fky.ltd/lglan_02.webp",
+        "https://cdn.fky.ltd/lglan_03.webp"
       ],
       "author": "@OPPO影像",
       "sections": [
@@ -384,9 +384,9 @@
     },
     {
       "name": "蓝调时刻",
-      "coverPath": "images/ldsk_01.webp",
+      "coverPath": "https://cdn.fky.ltd/ldsk_01.webp",
       "galleryImages": [
-        "images/ldsk_02.webp"
+        "https://cdn.fky.ltd/ldsk_02.webp"
       ],
       "author": "@OPPO影像",
       "sections": [
@@ -446,10 +446,10 @@
     },
     {
       "name": "梦幻黑柔",
-      "coverPath": "images/mhhr_01.webp",
+      "coverPath": "https://cdn.fky.ltd/mhhr_01.webp",
       "galleryImages": [
-        "images/mhhr_02.webp",
-        "images/mhhr_03.webp"
+        "https://cdn.fky.ltd/mhhr_02.webp",
+        "https://cdn.fky.ltd/mhhr_03.webp"
       ],
       "author": "@OPPO影像",
       "sections": [
@@ -509,10 +509,10 @@
     },
     {
       "name": "富士NC",
-      "coverPath": "images/fsnc_01.webp",
+      "coverPath": "https://cdn.fky.ltd/fsnc_01.webp",
       "galleryImages": [
-        "images/fsnc_02.webp",
-        "images/fsnc_03.webp"
+        "https://cdn.fky.ltd/fsnc_02.webp",
+        "https://cdn.fky.ltd/fsnc_03.webp"
       ],
       "author": "@OPPO影像",
       "sections": [
@@ -572,10 +572,10 @@
     },
     {
       "name": "人文",
-      "coverPath": "images/rw_01.webp",
+      "coverPath": "https://cdn.fky.ltd/rw_01.webp",
       "galleryImages": [
-        "images/rw_02.webp",
-        "images/rw_03.webp"
+        "https://cdn.fky.ltd/rw_02.webp",
+        "https://cdn.fky.ltd/rw_03.webp"
       ],
       "author": "@蘭州白鴿",
       "sections": [
@@ -665,10 +665,10 @@
     },
     {
       "name": "清新人文",
-      "coverPath": "images/qxrw_01.webp",
+      "coverPath": "https://cdn.fky.ltd/qxrw_01.webp",
       "galleryImages": [
-        "images/qxrw_02.webp",
-        "images/qxrw_03.webp"
+        "https://cdn.fky.ltd/qxrw_02.webp",
+        "https://cdn.fky.ltd/qxrw_03.webp"
       ],
       "author": "@蘭州白鴿",
       "sections": [
@@ -758,10 +758,10 @@
     },
     {
       "name": "氛围雪夜",
-      "coverPath": "images/fwxy_01.webp",
+      "coverPath": "https://cdn.fky.ltd/fwxy_01.webp",
       "galleryImages": [
-        "images/fwxy_02.webp",
-        "images/fwxy_03.webp"
+        "https://cdn.fky.ltd/fwxy_02.webp",
+        "https://cdn.fky.ltd/fwxy_03.webp"
       ],
       "author": "@派瑞特凯",
       "sections": [
@@ -821,9 +821,9 @@
     },
     {
       "name": "美味流芳",
-      "coverPath": "images/mwlf_01.webp",
+      "coverPath": "https://cdn.fky.ltd/mwlf_01.webp",
       "galleryImages": [
-        "images/mwlf_02.webp"
+        "https://cdn.fky.ltd/mwlf_02.webp"
       ],
       "author": "@ONESTEP™",
       "sections": [
@@ -883,10 +883,10 @@
     },
     {
       "name": "手机徕卡",
-      "coverPath": "images/sjlk_01.webp",
+      "coverPath": "https://cdn.fky.ltd/sjlk_01.webp",
       "galleryImages": [
-        "images/sjlk_02.webp",
-        "images/sjlk_03.webp"
+        "https://cdn.fky.ltd/sjlk_02.webp",
+        "https://cdn.fky.ltd/sjlk_03.webp"
       ],
       "author": "@盒子叔",
       "sections": [
@@ -946,10 +946,10 @@
     },
     {
       "name": "梦幻富士",
-      "coverPath": "images/mhfs_01.webp",
+      "coverPath": "https://cdn.fky.ltd/mhfs_01.webp",
       "galleryImages": [
-        "images/mhfs_02.webp",
-        "images/mhfs_03.webp"
+        "https://cdn.fky.ltd/mhfs_02.webp",
+        "https://cdn.fky.ltd/mhfs_03.webp"
       ],
       "author": "@盒子叔",
       "sections": [
@@ -1029,10 +1029,10 @@
     },
     {
       "name": "哈苏浓郁",
-      "coverPath": "images/hsny_01.webp",
+      "coverPath": "https://cdn.fky.ltd/hsny_01.webp",
       "galleryImages": [
-        "images/hsny_02.webp",
-        "images/hsny_03.webp"
+        "https://cdn.fky.ltd/hsny_02.webp",
+        "https://cdn.fky.ltd/hsny_03.webp"
       ],
       "author": "@Aurora",
       "sections": [
@@ -1092,10 +1092,10 @@
     },
     {
       "name": "假日清新",
-      "coverPath": "images/jrqx_01.webp",
+      "coverPath": "https://cdn.fky.ltd/jrqx_01.webp",
       "galleryImages": [
-        "images/jrqx_02.webp",
-        "images/jrqx_03.webp"
+        "https://cdn.fky.ltd/jrqx_02.webp",
+        "https://cdn.fky.ltd/jrqx_03.webp"
       ],
       "author": "@Aurora",
       "sections": [
@@ -1155,9 +1155,9 @@
     },
     {
       "name": "梦幻黑白",
-      "coverPath": "images/mhhb_01.webp",
+      "coverPath": "https://cdn.fky.ltd/mhhb_01.webp",
       "galleryImages": [
-        "images/mhhb_02.webp"
+        "https://cdn.fky.ltd/mhhb_02.webp"
       ],
       "author": "@Aurora",
       "sections": [
@@ -1217,9 +1217,9 @@
     },
     {
       "name": "美味梦境",
-      "coverPath": "images/mwmj_01.webp",
+      "coverPath": "https://cdn.fky.ltd/mwmj_01.webp",
       "galleryImages": [
-        "images/mwmj_02.webp"
+        "https://cdn.fky.ltd/mwmj_02.webp"
       ],
       "author": "@Aurora",
       "sections": [
@@ -1279,9 +1279,9 @@
     },
     {
       "name": "蓝调通透",
-      "coverPath": "images/ldtt_01.webp",
+      "coverPath": "https://cdn.fky.ltd/ldtt_01.webp",
       "galleryImages": [
-        "images/ldtt_02.webp"
+        "https://cdn.fky.ltd/ldtt_02.webp"
       ],
       "author": "@屋顶橙子味",
       "sections": [
@@ -1361,9 +1361,9 @@
     },
     {
       "name": "晴天复古",
-      "coverPath": "images/qtfw_01.webp",
+      "coverPath": "https://cdn.fky.ltd/qtfw_01.webp",
       "galleryImages": [
-        "images/qtfw_02.webp"
+        "https://cdn.fky.ltd/qtfw_02.webp"
       ],
       "author": "@屋顶橙子味",
       "sections": [
@@ -1453,10 +1453,10 @@
     },
     {
       "name": "霓虹灯",
-      "coverPath": "images/nhd_01.webp",
+      "coverPath": "https://cdn.fky.ltd/nhd_01.webp",
       "galleryImages": [
-        "images/nhd_02.webp",
-        "images/nhd_03.webp"
+        "https://cdn.fky.ltd/nhd_02.webp",
+        "https://cdn.fky.ltd/nhd_03.webp"
       ],
       "author": "@屋顶橙子味",
       "sections": [
@@ -1536,9 +1536,9 @@
     },
     {
       "name": "复古怀旧",
-      "coverPath": "images/fghj_01.webp",
+      "coverPath": "https://cdn.fky.ltd/fghj_01.webp",
       "galleryImages": [
-        "images/fghj_02.webp"
+        "https://cdn.fky.ltd/fghj_02.webp"
       ],
       "author": "@屋顶橙子味",
       "sections": [
