@@ -6,10 +6,10 @@
   "presets": [
     {
       "name": "理光负片",
-      "coverPath": "https://cdn.fky.ltd/lgfz_01.webp",
+      "coverPath": "https://cdn.fky.ltd/lgfp_01.webp",
       "galleryImages": [
-        "https://cdn.fky.ltd/lgfz_02.webp",
-        "https://cdn.fky.ltd/lgfz_03.webp"
+        "https://cdn.fky.ltd/lgfp_02.webp",
+        "https://cdn.fky.ltd/lgfp_03.webp"
       ],
       "author": "@NICKLIN",
       "sections": [
