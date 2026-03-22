@@ -14,20 +14,15 @@
       "author": "@NICKLIN",
       "sections": [
         {
-          "title": "@string/section_color_grading",
+          "title": "负片",
           "items": [
-            {
-              "label": "@string/param_filter",
-              "value": "负片",
-              "span": 2
-            },
             {
               "label": "@string/param_saturation",
               "value": "+3",
               "span": 1
             },
             {
-              "label": "色相",
+              "label": "@string/param_warm_cool",
               "value": "+3",
               "span": 1
             },
