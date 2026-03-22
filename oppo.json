@@ -6,16 +6,21 @@
   "presets": [
     {
       "name": "理光负片",
-      "coverPath": "https://cdn.fky.ltd/lgfp_01.webp",
+      "coverPath": "https://cdn.fky.ltd/lgfz_01.webp",
       "galleryImages": [
-        "https://cdn.fky.ltd/lgfp_02.webp",
-        "https://cdn.fky.ltd/lgfp_03.webp"
+        "https://cdn.fky.ltd/lgfz_02.webp",
+        "https://cdn.fky.ltd/lgfz_03.webp"
       ],
-      "author": "@尼克lin",
+      "author": "@NICKLIN",
       "sections": [
         {
-          "title": "负片",
+          "title": "@string/section_color_grading",
           "items": [
+            {
+              "label": "@string/param_filter",
+              "value": "负片",
+              "span": 2
+            },
             {
               "label": "@string/param_saturation",
               "value": "+3",
