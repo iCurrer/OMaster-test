@@ -32,17 +32,17 @@
               "span": 1
             },
             {
-              "label": "对比度",
+              "label": "@string/param_contrast",
               "value": "+4",
               "span": 1
             },
             {
-              "label": "对比度（亮部）",
+              "label": "@string/param_contrast_highlight",
               "value": "+1",
               "span": 1
             },
             {
-              "label": "对比度（暗部）",
+              "label": "@string/param_contrast_shadow",
               "value": "-2",
               "span": 1
             },
@@ -57,12 +57,12 @@
               "span": 1
             },
             {
-              "label": "清晰",
+              "label": "@string/param_clarity",
               "value": "0",
               "span": 1
             },
             {
-              "label": "颗粒强度",
+              "label": "@string/param_grain",
               "value": "0",
               "span": 1
             }
