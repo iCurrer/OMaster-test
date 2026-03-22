@@ -17,8 +17,38 @@
           "title": "@string/section_color_grading",
           "items": [
             {
+              "label": "@string/param_filter",
+              "value": "负片",
+              "span": 2
+            },
+            {
               "label": "@string/param_saturation",
               "value": "+3",
+              "span": 1
+            },
+            {
+              "label": "色相",
+              "value": "+3",
+              "span": 1
+            },
+            {
+              "label": "@string/param_tone_curve",
+              "value": "+1",
+              "span": 1
+            },
+            {
+              "label": "对比度",
+              "value": "+4",
+              "span": 1
+            },
+            {
+              "label": "对比度（亮部）",
+              "value": "+1",
+              "span": 1
+            },
+            {
+              "label": "对比度（暗部）",
+              "value": "-2",
               "span": 1
             },
             {
@@ -27,17 +57,7 @@
               "span": 1
             },
             {
-              "label": "@string/param_warm_cool",
-              "value": "+3",
-              "span": 1
-            },
-            {
               "label": "@string/param_vignette",
-              "value": "+1",
-              "span": 1
-            },
-            {
-              "label": "@string/param_tone_curve",
               "value": "+1",
               "span": 1
             },
@@ -47,28 +67,8 @@
               "span": 1
             },
             {
-              "label": "对比度",
-              "value": "+4",
-              "span": 1
-            },
-            {
               "label": "颗粒强度",
               "value": "0",
-              "span": 1
-            },
-            {
-              "label": "对比度（亮部）",
-              "value": "+1",
-              "span": 1
-            },
-            {
-              "label": "@string/param_filter",
-              "value": "标准 0%",
-              "span": 2
-            },
-            {
-              "label": "对比度（暗部）",
-              "value": "-2",
               "span": 1
             }
           ]
