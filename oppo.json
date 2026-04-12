@@ -27,8 +27,8 @@
               "span": 1
             },
             {
-              "label": "@string/param_warm_cool",
-              "value": "-1",
+              "label": "@string/param_cyan",
+              "value": "+1",
               "span": 1
             },
             {
@@ -57,8 +57,8 @@
               "span": 1
             },
             {
-              "label": "@string/param_cyan",
-              "value": "+1",
+              "label": "@string/param_warm_cool",
+              "value": "-1",
               "span": 1
             },
             {
@@ -69,6 +69,11 @@
             {
               "label": "@string/param_grain",
               "value": "+3",
+              "span": 1
+            },
+            {
+              "label": "@string/param_grain_size",
+              "value": "2",
               "span": 1
             }
           ]
@@ -105,8 +110,8 @@
               "span": 1
             },
             {
-              "label": "@string/param_warm_cool",
-              "value": "+3",
+              "label": "@string/param_cyan",
+              "value": "0",
               "span": 1
             },
             {
@@ -135,8 +140,8 @@
               "span": 1
             },
             {
-              "label": "@string/param_cyan",
-              "value": "0",
+              "label": "@string/param_warm_cool",
+              "value": "+3",
               "span": 1
             },
             {
@@ -146,6 +151,11 @@
             },
             {
               "label": "@string/param_grain",
+              "value": "0",
+              "span": 1
+            },
+            {
+              "label": "@string/param_grain_size",
               "value": "0",
               "span": 1
             }
