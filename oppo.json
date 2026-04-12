@@ -73,7 +73,7 @@
             },
             {
               "label": "@string/param_grain_size",
-              "value": "2",
+              "value": "+2",
               "span": 1
             }
           ]
