@@ -74,7 +74,7 @@
             {
               "label": "@string/param_grain_size",
               "value": "+2",
-              "span": 1
+              "span": 2
             }
           ]
         }
@@ -111,7 +111,7 @@
             },
             {
               "label": "@string/param_hue",
-              "value": "0",
+              "value": "+3",
               "span": 1
             },
             {
@@ -141,7 +141,7 @@
             },
             {
               "label": "@string/param_brightness",
-              "value": "+3",
+              "value": "+1",
               "span": 1
             },
             {
@@ -157,7 +157,7 @@
             {
               "label": "@string/param_grain_size",
               "value": "0",
-              "span": 1
+              "span": 2
             }
           ]
         }
