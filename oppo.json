@@ -6,10 +6,10 @@
   "presets": [
     {
       "name": "理光正片",
-      "coverPath": "https://cdn.fky.ltd/lgzp_01.webp",
+      "coverPath": "https://cdn.fky.ltd/zwzp_01.webp",
       "galleryImages": [
-        "https://cdn.fky.ltd/lgzp_02.webp",
-        "https://cdn.fky.ltd/lgzp_03.webp"
+        "https://cdn.fky.ltd/zwzp_02.webp",
+        "https://cdn.fky.ltd/zwzp_03.webp"
       ],
       "author": "@NICKLIN",
       "sections": [
