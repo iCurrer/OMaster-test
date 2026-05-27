@@ -4,6 +4,70 @@
   "author": "@OMaster",
   "build": 1,
   "presets": [
+     
+    {
+  "name": "温绿拾光",
+  "coverPath": "https://cdn.fky.ltd/wlsg_01.webp",
+  "galleryImages": [
+    "https://cdn.fky.ltd/wlsg_02.webp"
+  ],
+  "author": "@屋顶橙子味",
+  "isNew": true,
+  "sections": [
+    {
+      "title": "@string/section_color_grading",
+      "items": [
+        {
+          "label": "@string/param_filter",
+          "value": "清新80%",
+          "span": 2
+        },
+        {
+          "label": "@string/param_soft_light",
+          "value": "梦幻",
+          "span": 1
+        },
+        {
+          "label": "@string/param_tone_curve",
+          "value": "-44",
+          "span": 1
+        },
+        {
+          "label": "@string/param_saturation",
+          "value": "-9",
+          "span": 1
+        },
+        {
+          "label": "@string/param_warm_cool",
+          "value": "+12",
+          "span": 1
+        },
+        {
+          "label": "@string/param_cyan_magenta",
+          "value": "-12",
+          "span": 1
+        },
+        {
+          "label": "@string/param_sharpness",
+          "value": "4",
+          "span": 1
+        },
+        {
+          "label": "@string/param_vignette",
+          "value": "开",
+          "span": 2
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "Auto"
+  ],
+  "description": {
+    "title": "Shooting Tips",
+    "content": "【环境建议】自然光充足的户外环境，清晨或傍晚的柔和光线最佳，树林、草地等绿色植被丰富的场景尤佳\n【场景推荐】公园、植物园、森林小径、茶园、田园风光、户外人像\n【拍摄要点】寻找阳光透过树叶的光影斑驳效果，利用逆光或侧逆光增加梦幻感，画面带暖绿调，适合营造宁静清新的氛围感"
+  }
+},
     {
       "name": "理光正片",
       "coverPath": "https://cdn.fky.ltd/zwzp_01.webp",
